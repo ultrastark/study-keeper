@@ -1,7 +1,7 @@
 # Changelog
 ## [0.1.9]
 
-## add
+### add
   - Admin
       - Alpha banner
       - Navbar labels
