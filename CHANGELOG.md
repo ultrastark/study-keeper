@@ -10,6 +10,9 @@
   - admin/studies : download
       - disable downlaod on empty study
       
+  - global : sidenav
+      - keep current sidebar highlighted on reload 
+      
 ## v0.1.9 : 2020-04-27
 
 ### add
