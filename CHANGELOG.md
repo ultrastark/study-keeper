@@ -1,5 +1,10 @@
 # Changelog
-## DEV - v0.2.0 : 2020-04-xx
+## v0.2.1 : 2020-05-01
+### fix
+  - admin/tasks
+    - save change on edit
+
+## v0.2.0 : 2020-04-29
 
 ### add
   - admin/study
