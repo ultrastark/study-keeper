@@ -5,6 +5,10 @@
     - update from v8.0 to v9.0
   - bit/us-swiper
     - update from v0.0.7 to v0.2 (use of the new angular compiler)
+ 
+ ### fix
+  - admin/study
+    - save on reorder trainingSession
 
 ## v0.2.1 : 2020-05-01
 ### fix
