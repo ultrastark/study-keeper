@@ -3,6 +3,8 @@
 ### enhance
   - core/angular
     - update from v8.0 to v9.0
+  - bit/us-swiper
+    - update from v0.0.7 to v0.2 (use of the new angular compiler)
 
 ## v0.2.1 : 2020-05-01
 ### fix
