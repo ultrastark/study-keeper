@@ -5,6 +5,8 @@
     - update from v8.0 to v9.0
   - bit/us-swiper
     - update from v0.0.7 to v0.2 (use of the new angular compiler)
+  - admin/tasks
+    - better auto naming logic
  
  ### fix
   - admin/study
