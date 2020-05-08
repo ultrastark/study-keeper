@@ -1,5 +1,9 @@
 # Changelog
 ## v0.2.5 : 2020-05-08
+ ### add
+  - organisation/user
+    - let user have different role on different organisation 
+
  ### enhance
   - admin/study
     - Let the user set an interval of 0
