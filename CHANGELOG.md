@@ -1,5 +1,11 @@
 # Changelog
-## [inDev] v0.2.2 : 2020-05-03
+## v0.2.5 : 2020-05-08
+ ### fix
+  - admin/user
+    - on delete from an organisatin only remove the acces
+    - enhance user change or deleting access to another user (depending on the user role)
+
+## v0.2.2 : 2020-05-03
 ### enhance
   - core/angular
     - update from v8.0 to v9.0
