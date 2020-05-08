@@ -1,9 +1,13 @@
 # Changelog
 ## v0.2.5 : 2020-05-08
+ ### enhance
+  - admin/study
+    - Let the user set an interval of 0
+
  ### fix
   - admin/user
     - on delete from an organisatin only remove the acces
-    - enhance user change or deleting access to another user (depending on the user role)
+    - enhance user change or deleting access to another user (depending on the user role
 
 ## v0.2.2 : 2020-05-03
 ### enhance
