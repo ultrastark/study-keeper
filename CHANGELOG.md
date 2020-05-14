@@ -1,4 +1,9 @@
 # Changelog
+## v0.2.6 : 2020-05-14
+ ### enhance
+  - student/participant
+    - Show already completed exercices in the actual trainingSession
+    
 ## v0.2.5 : 2020-05-08
  ### add
   - organisation/user
