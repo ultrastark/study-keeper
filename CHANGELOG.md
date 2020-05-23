@@ -1,4 +1,13 @@
 # Changelog
+## v0.2.7 : 2020-05-23
+ ### enhance
+  - student/tasks
+    - Responsiveness
+ 
+ ### fix
+  - student/tasks
+    - Save properly difficulty between training sessions
+    
 ## v0.2.6 : 2020-05-14
  ### enhance
   - student/participant
