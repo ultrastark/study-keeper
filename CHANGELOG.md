@@ -1,16 +1,21 @@
 # Changelog
+## v0.2.8 : 2020-05-24
+ ### enhance
+  - participant/result-screen 
+    - add loader
+    
 ## v0.2.7 : 2020-05-23
  ### enhance
-  - student/tasks
+  - participant/tasks
     - Responsiveness
  
  ### fix
-  - student/tasks
+  - participant/tasks
     - Save properly difficulty between training sessions
     
 ## v0.2.6 : 2020-05-14
  ### enhance
-  - student/participant
+  - participant/participant
     - Show already completed exercices in the actual trainingSession
     
 ## v0.2.5 : 2020-05-08
