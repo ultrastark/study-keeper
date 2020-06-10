@@ -1,5 +1,10 @@
 # Changelog
-## v0.2.8 : 2020-05-24
+## v0.2.8 : 2020-06-10
+ ### add
+  - admin/study
+    - lock study
+  - admin/users
+    - warning on role change
  ### enhance
   - participant/result-screen 
     - add loader
