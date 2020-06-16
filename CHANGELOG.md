@@ -1,4 +1,15 @@
 # Changelog
+## v0.2.11 : 2020-06-16
+ ### enhance
+  - admin/studies
+    - remove download-button on emtpy study
+    
+ ### fix    
+   - global 
+     - Some text issues
+   - participant
+     - send the content of the question
+
 ## v0.2.8 : 2020-06-10
  ### add
   - admin/study
