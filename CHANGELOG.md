@@ -1,4 +1,12 @@
 # Changelog
+## v1.0.0 : 2020-06-26
+ ### Add
+ - admin/tasks 
+   - import and export as JSON
+ ### Enhance
+ - global
+   - text
+
 ## v0.2.11 : 2020-06-16
  ### enhance
   - admin/studies
